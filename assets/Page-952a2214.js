@@ -1,1 +1,0 @@
-import{r as n,j as s}from"./index-f9295e76.js";const i=e=>(n.useEffect(()=>{window.scrollTo(0,0)},[]),s.jsx("main",{id:"main-content",children:s.jsx("div",{className:"fam-section fam-section--fullscreen",children:s.jsx("div",{className:"fam-section__bd",children:e.children})})}));export{i as P};

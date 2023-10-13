@@ -1,1 +1,0 @@
-import{j as t}from"./index-f9295e76.js";import{P as s}from"./Page-952a2214.js";import{I as e}from"./IncidentsDisplay-3eb2a8af.js";const m=()=>t.jsx(s,{children:t.jsx(e,{title:"Test Page"})});export{m as default};

@@ -1,0 +1,1 @@
+import{j as s}from"./index-8d9b88f3.js";import{P as t}from"./Page-2d04b9b2.js";import{I as r}from"./IncidentsDisplay-8476ebed.js";import{D as o}from"./DashboardCounter-70592357.js";const p=()=>s.jsxs(t,{children:[s.jsx(r,{title:"Incidents Page"}),s.jsx(o,{})]});export{p as default};
