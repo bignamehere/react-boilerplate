@@ -1,1 +1,14 @@
-# react-boilerplate
+# eis-boilerplate
+Base implementation of a React Frontend application
+
+1. Clone repo locally to a directory called `eis-boilerplate`
+
+2. Type `cd eis-boilerplate`
+
+3. Type `npm install`
+
+4. Type `npm run build`
+
+5. Type `npm run dev`
+
+6. A local server will be spun up and accessible at `http://localhost:3001/`
