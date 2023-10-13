@@ -27,4 +27,4 @@ const allRoutes = [
   { path: '*', element: `<h1>Whoops! 404</h1>`}
 ];
 
-export const router = createBrowserRouter( allRoutes );
+export const router = createBrowserRouter( allRoutes, { basename: import.meta.env.BASE_URL } );

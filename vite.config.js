@@ -10,7 +10,7 @@ const famImagesPath = './node_modules/fam-style/src/img/';
 
 const config = {
   server: { port: 3001 },
-  base: '/',
+  base: '/react-boilerplate/',
   plugins: [
     copy({
       targets: [
